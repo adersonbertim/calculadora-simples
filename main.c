@@ -8,6 +8,7 @@ int main() {
   float n1, n2, resultado;
 
   // função printf, para a 'escolha' da operação
+  printf("Bem vindo a calculadora-simples!!\n ");
   printf("Escolha sua operação! \n");
   printf("1. Soma\n");
   printf("2. Subtração\n");
